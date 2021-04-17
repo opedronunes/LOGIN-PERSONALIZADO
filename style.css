@@ -1,0 +1,54 @@
+*{
+ font-family: verdana, sans-serif;
+}
+body{
+ background: #202020;
+ background-image: url(https://cutewallpaper.org/21/css-black-background/Parallax-Star-background-in-CSS.png);
+}
+.text{
+	margin: 0;
+	text-align: center;
+	color:#FCDC52;
+}
+#container-formulario{
+	 width: 400px;
+	 height: 620px;
+	 background: #202020;
+	 border: 0.5px solid #202020;
+	 margin: 25px auto;
+	 padding-top: 10px;
+	 -webkit-border-radius: 8px;
+	 -moz-border-radius: 8px;
+	 border-radius: 8px;
+	 box-shadow: 0 0 0.5em gold;
+}
+.input{
+	 padding: 6px;
+	 width: 384px;
+	 height: 30px;
+	 background:#202020;
+	 border: 2px solid #525252;
+	  -webkit-border-radius: 8px;
+	 -moz-border-radius: 8px;
+	 border-radius: 8px;
+}
+.submit{
+	 width: 400px;
+	 height: 40px;
+	 margin-top: 15px;
+	 background: #FCDC52;
+	 -webkit-border-radius: 8px;
+	 -moz-border-radius: 8px;
+	 border-radius: 8px;
+	 color: #1c1c1c;
+	 border: none;
+}
+label{
+ 	font-size:0.7em;
+}
+a{
+	float: left;
+	display: block;
+	margin-left: 14px;
+	padding: 25px;
+}
